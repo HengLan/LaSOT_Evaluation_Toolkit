@@ -11,6 +11,7 @@ This toolkit is utilized for evaluating trackers' performance on a large-scale b
 In the file `run_tracker_performance_evaluation.m`, you can
 * change `evaluation_dataset_type` (line 25) for evaluation on all 1,400 sequences or 280 testing sequences
 * change `norm_dst` (line 28) for precision or normalized precision plots
+
 In the file `utils/plot_draw_save.m`
 * change the plotting settings to get the appropriate plots
 

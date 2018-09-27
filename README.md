@@ -4,7 +4,7 @@ This toolkit is utilized for evaluating trackers' performance on a large-scale b
 
 ## Usage
 * Download the repository, unzip it to your computer
-* Download <a href="">tracking result</a>, unzip it to folder `tracking_results/`
+* Download <a href="https://cis.temple.edu/lasot/toolkit/lasot_tracking_results.zip">tracking result</a>, unzip it to folder `tracking_results/`
 * Run `run_tracker_performance_evaluation.m` in Matlab
 
 ## Notes

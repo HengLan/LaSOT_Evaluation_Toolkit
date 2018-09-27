@@ -22,12 +22,8 @@ for i = 1:numel(seqs) % for each sequence
         res = dlmread([rp_all t.name '_tracking_result/' s '.txt']);
         fprintf(['evaluating ' t.name ' on ' s ' ...\n']);
         
-%         anno     = rect_anno;
-        
         success_num_overlap = zeros(1, numel(threshold_set_overlap));
         success_num_err     = zeros(1, numel(threshold_set_error));
-        
-%         res = results{1};
         
         if isempty(res)
             break;

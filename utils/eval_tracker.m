@@ -20,10 +20,6 @@ for i = 1:numel(seqs) % for each sequence
         
         % load tracking result
         res = dlmread([rp_all t.name '_tracking_result/' s '.txt']);
-%         res = load([rp_all t.name '_tracking_result/' s '.txt']);
-%         results = load([rp_all t.name '_tracking_result/' s '.txt']);
-%         results = load([rp_all s '_' t.name '.mat']);
-%         results = results.results;
         fprintf(['evaluating ' t.name ' on ' s ' ...\n']);
         
 %         anno     = rect_anno;

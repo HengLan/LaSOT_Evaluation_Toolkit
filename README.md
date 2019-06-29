@@ -2,6 +2,16 @@
 
 This toolkit is utilized for evaluating trackers' performance on a large-scale benchmark LaSOT (https://cis.temple.edu/lasot/).
 
+### Notification
+
+There is a problem with the data sever. Please use the following links to download dataset:
+
+* Download the whole dataset through Google driver: https://bit.ly/LaSOTAll
+* Download each category through Google driver: https://bit.ly/LaSOTEach
+* Download the whole dataset through Baidu Pan: https://pan.baidu.com/s/1UbcQIU-Fpps7Jqq4WHRRkA
+* Download each category through Baidu Pan: https://pan.baidu.com/s/1xFANiqkBHytE7stMOLUpLQ
+
+
 ## Usage
 * Download the repository, unzip it to your computer
 * Download <a href="https://cis.temple.edu/lasot/toolkit/lasot_tracking_results.zip">tracking result</a>, unzip it to folder `tracking_results/`

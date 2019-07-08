@@ -2,7 +2,7 @@
 
 This toolkit is utilized for evaluating trackers' performance on a large-scale benchmark LaSOT (https://cis.temple.edu/lasot/).
 
-## Notification (Downloading dataset and tracking results)
+## Notification (Downloading dataset)
 
 There is a problem with the data sever. Please use the following links to download dataset:
 

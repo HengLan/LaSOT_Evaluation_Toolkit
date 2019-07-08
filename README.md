@@ -10,6 +10,7 @@ There is a problem with the data sever. Please use the following links to downlo
 * Download each category through Google driver: https://bit.ly/LaSOTEach
 * Download the whole dataset through Baidu Pan: https://pan.baidu.com/s/1UbcQIU-Fpps7Jqq4WHRRkA
 * Download each category through Baidu Pan: https://pan.baidu.com/s/1xFANiqkBHytE7stMOLUpLQ
+* Download the tracking results of all 35 trackers through Google driver: https://drive.google.com/file/d/15uClmGIRb6xRiVJRfurgyD9B5mpreYYI/view?usp=sharing
 
 
 ## Usage

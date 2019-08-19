@@ -17,7 +17,7 @@ In order to download the tracking results, please directly use the following lin
 
 ## Usage
 * Download the repository, unzip it to your computer
-* Download <a href="https://cis.temple.edu/lasot/toolkit/lasot_tracking_results.zip">tracking result</a>, unzip it to folder `tracking_results/`
+* Download <a href="https://cis.temple.edu/lasot/toolkit/lasot_tracking_results.zip">tracking result</a>, unzip it to folder `tracking_results/` (if this is not working, use the above link)
 * Run `run_tracker_performance_evaluation.m` in Matlab
 
 ## Notes

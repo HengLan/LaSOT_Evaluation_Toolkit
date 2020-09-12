@@ -7,7 +7,7 @@ We released a newly collected extension subset of 15 categories with 150 videos 
 
 ## Notification (Downloading dataset and tracking results)
 
-There is a problem with the data sever. Please use the following links to download dataset:
+$\underline{There is a problem with the data sever. Please use the following links to download dataset:}$
 
 * Download the whole dataset through Google driver: https://bit.ly/LaSOTAll
 * Download each category through Google driver: https://bit.ly/LaSOTEach

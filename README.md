@@ -1,11 +1,11 @@
+## UPDATE: A new challenging subset is added!
+
+We released a newly collected extension subset of 15 categories with 150 videos (very challenging!!!) for one-shot evaluation of tracking algorithms. Check the description in this <a href="https://arxiv.org/abs/2009.03465">paper</a>. More details including the data, complete evaluation toolkit and results of 48 trackers are available at this <a href="https://www.cs.stonybrook.edu/~cvl/projects/lasot/">project</a>.
+
 ## LaSOT_Evaluation_Toolkit
 
 This toolkit is utilized for evaluating trackers' performance on a large-scale benchmark LaSOT (http://vision.cs.stonybrook.edu/~lasot/).
 
-
-## UPDATE: A new challenging subset is added!
-
-We released a newly collected extension subset of 15 categories with 150 videos (very challenging!!!) for one-shot evaluation of tracking algorithms. Check the description in this <a href="https://arxiv.org/abs/2009.03465">paper</a>. More details including the data, complete evaluation toolkit and results of 48 trackers are available at this <a href="https://www.cs.stonybrook.edu/~cvl/projects/lasot/">project</a>.
 
 
 ## Notification (Downloading dataset and tracking results)

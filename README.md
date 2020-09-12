@@ -41,4 +41,4 @@ H. Fan*, L. Lin*, F. Yang*, P. Chu*, G. Deng, S. Yu, H. Bai, Y. Xu, C. Liao, and
 In *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2019.
 
 ## Contact
-If you have any questions on <a href="http://vision.cs.stonybrook.edu/~lasot/">LaSOT</a>, please feel free to contain Heng Fan at hefan@cs.stonybrook.edu.
+If you have any questions on <a href="http://vision.cs.stonybrook.edu/~lasot/">LaSOT</a>, please feel free to contact Heng Fan at hefan@cs.stonybrook.edu.

@@ -12,10 +12,11 @@ This toolkit is utilized for evaluating trackers' performance on a large-scale b
 
 There is a problem with the data sever. Please use the following links to download dataset:}
 
-* Download the whole dataset through Google driver: https://bit.ly/LaSOTAll
-* Download each category through Google driver: https://bit.ly/LaSOTEach
-* Download the whole dataset through Baidu Pan: https://pan.baidu.com/s/1UbcQIU-Fpps7Jqq4WHRRkA
-* Download each category through Baidu Pan: https://pan.baidu.com/s/1xFANiqkBHytE7stMOLUpLQ
+* Download the whole dataset in conference version through Google driver: [link](http://vision.cs.stonybrook.edu/~lasot/download.html#:~:text=of%20all%20categories%3A-,GoogleDrive,-%7C%20Baidu%20Pan)
+* Download each category in conference version through Google driver: [link](https://drive.google.com/drive/folders/1tBn9KzCqiyY98Yvm8vpvn12w_LDhr5_B?usp=share_link)
+* Download the test subset only in conference version through Google driver: [link](https://drive.google.com/file/d/1UvhAGVRHr3loPCBe3_QNzT7-NBXIU-z1/view?usp=share_link)
+* Download the new extension in journal version through Google driver: [link](https://drive.google.com/file/d/1QFBJJKfoGoPiDVFPNWs4fYFMVW7jYtaQ/view?usp=share_link)
+* Download each category of the new extension in journal version through Google driver: [link](https://drive.google.com/drive/folders/1aQApha4Q1aiBz7MRP13Ljz1k9K4cQD7g?usp=share_link)
 
 In order to download the tracking results, please directly use the following link (including toolkit and complete results):
 * Download the toolkit and complete tracking results: http://vision.cs.stonybrook.edu/~lasot/LaSOT_Evaluation_Toolkit.zip
@@ -38,10 +39,10 @@ In the file `utils/plot_draw_save.m`
 If you use LaSOT and this evaluation toolkit for you researches, please consider citing our paper:
 * <a href="https://arxiv.org/abs/2009.03465">LaSOT: A High-quality Large-scale Single Object Tracking Benchmark</a> <br>
 H. Fan*, H. Bai*, L. Lin, F. Yang, P. Chu, G. Deng, S. Yu, Harshit, M. Huang, J Liu, Y. Xu, C. Liao, L Yuan, and H. Ling <br>
-*arXiv:2009.03465*, 2020.
+*International Journal of Computer Vision (IJCV)*, 129: 439–461, 2021..
 * <a href="https://arxiv.org/pdf/1809.07845.pdf">LaSOT: A High-quality Benchmark for Large-scale Single Object Tracking</a> <br> 
 H. Fan*, L. Lin*, F. Yang*, P. Chu*, G. Deng, S. Yu, H. Bai, Y. Xu, C. Liao, and H. Ling <br> 
 In *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2019.
 
 ## Contact
-If you have any questions on <a href="http://vision.cs.stonybrook.edu/~lasot/">LaSOT</a>, please feel free to contact Heng Fan at hefan@cs.stonybrook.edu.
+If you have any questions on <a href="http://vision.cs.stonybrook.edu/~lasot/">LaSOT</a>, please feel free to contact Heng Fan at heng.fan@unt.edu.

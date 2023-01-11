@@ -39,7 +39,7 @@ In the file `utils/plot_draw_save.m`
 If you use LaSOT and this evaluation toolkit for you researches, please consider citing our paper:
 * <a href="https://arxiv.org/abs/2009.03465">LaSOT: A High-quality Large-scale Single Object Tracking Benchmark</a> <br>
 H. Fan*, H. Bai*, L. Lin, F. Yang, P. Chu, G. Deng, S. Yu, Harshit, M. Huang, J Liu, Y. Xu, C. Liao, L Yuan, and H. Ling <br>
-*International Journal of Computer Vision (IJCV)*, 129: 439–461, 2021..
+*International Journal of Computer Vision (IJCV)*, 129: 439–461, 2021.
 * <a href="https://arxiv.org/pdf/1809.07845.pdf">LaSOT: A High-quality Benchmark for Large-scale Single Object Tracking</a> <br> 
 H. Fan*, L. Lin*, F. Yang*, P. Chu*, G. Deng, S. Yu, H. Bai, Y. Xu, C. Liao, and H. Ling <br> 
 In *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2019.

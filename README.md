@@ -12,7 +12,7 @@ This toolkit is utilized for evaluating trackers' performance on a large-scale b
 
 There is a problem with the data sever. Please use the following links to download dataset:}
 
-* Download the whole dataset in conference version through Google driver: [link](http://vision.cs.stonybrook.edu/~lasot/download.html#:~:text=of%20all%20categories%3A-,GoogleDrive,-%7C%20Baidu%20Pan)
+* Download the whole dataset in conference version through Google driver: [link](https://drive.google.com/file/d/1nTvmKZSieCLASL1C0XkeWSDqlyS80fLz/view?usp=share_link)
 * Download each category in conference version through Google driver: [link](https://drive.google.com/drive/folders/1tBn9KzCqiyY98Yvm8vpvn12w_LDhr5_B?usp=share_link)
 * Download the test subset only in conference version through Google driver: [link](https://drive.google.com/file/d/1UvhAGVRHr3loPCBe3_QNzT7-NBXIU-z1/view?usp=share_link)
 * Download the new extension in journal version through Google driver: [link](https://drive.google.com/file/d/1QFBJJKfoGoPiDVFPNWs4fYFMVW7jYtaQ/view?usp=share_link)

@@ -10,21 +10,23 @@ This toolkit is utilized for evaluating trackers' performance on a large-scale b
 
 ## Notification (Downloading dataset and tracking results)
 
-There is a problem with the data sever. Please use the following links to download dataset:}
+Please use the following links to download dataset:
 
-* Download the whole dataset in conference version through Google driver: [link](https://drive.google.com/file/d/1nTvmKZSieCLASL1C0XkeWSDqlyS80fLz/view?usp=share_link)
-* Download each category in conference version through Google driver: [link](https://drive.google.com/drive/folders/1tBn9KzCqiyY98Yvm8vpvn12w_LDhr5_B?usp=share_link)
-* Download the test subset only in conference version through Google driver: [link](https://drive.google.com/file/d/1UvhAGVRHr3loPCBe3_QNzT7-NBXIU-z1/view?usp=share_link)
-* Download the new extension in journal version through Google driver: [link](https://drive.google.com/file/d/1QFBJJKfoGoPiDVFPNWs4fYFMVW7jYtaQ/view?usp=share_link)
-* Download each category of the new extension in journal version through Google driver: [link](https://drive.google.com/drive/folders/1aQApha4Q1aiBz7MRP13Ljz1k9K4cQD7g?usp=share_link)
+* Download the whole dataset in conference version through OneDriver: [link](https://1drv.ms/u/s!Akt_zO4y_u6DgoQsxl9ixr5Y393qWA?e=7yTwjc)
+* Download the whole dataset in conference version through Google Drive: [part-1](https://drive.google.com/file/d/1wnKcCuGxRTSPDnYcAB162juy_Qphbb14/view?usp=share_link) [part-2](https://drive.google.com/file/d/1OANces8uLc2gAOFLGh4MaOqXUTrmZ77v/view?usp=share_link) [part-3](https://drive.google.com/file/d/17LiijVbwUkAqgbCaj-W_33KbuX9RsYxy/view?usp=share_link)
+
+* Download each category in conference version through OneDriver: [link](https://1drv.ms/f/s!Akt_zO4y_u6DgoNSoMJrfnVwveDjhA?e=PBeyuD)
+
+* Download the new extension in journal version through OneDriver: [link](https://1drv.ms/u/s!Akt_zO4y_u6DgoQrvo5h48AC15l67A?e=Zo6PWx)
+* Download each category of the new extension in journal version through OneDriver: [link](https://1drv.ms/f/s!Akt_zO4y_u6DgoQZH_aGsNh2f6x6Dg?e=sldyAx)
 
 In order to download the tracking results, please directly use the following link (including toolkit and complete results):
-* Download the toolkit and complete tracking results: http://vision.cs.stonybrook.edu/~lasot/LaSOT_Evaluation_Toolkit.zip
+* Download the toolkit and complete tracking results: [link (Google Drive)] (https://drive.google.com/file/d/14gbxoSCe31qho1IV6pXx5LI-nzpDechR/view?usp=share_link)
 
 
 ## Usage
 * Download the repository, unzip it to your computer
-* Download <a href="http://vision.cs.stonybrook.edu/~lasot/lasot_tracking_results.zip">tracking result</a>, unzip it to folder `tracking_results/` (if this is not working, use the above link)
+* Download <a href="https://drive.google.com/file/d/14gbxoSCe31qho1IV6pXx5LI-nzpDechR/view?usp=share_link">tracking result</a>, unzip it to folder `tracking_results/` (if this is not working, use the above link)
 * Run `run_tracker_performance_evaluation.m` in Matlab
 
 ## Notes

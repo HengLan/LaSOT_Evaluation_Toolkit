@@ -10,7 +10,7 @@ This toolkit is utilized for evaluating trackers' performance on a large-scale b
 
 ## Notification (Downloading dataset and tracking results)
 
-Please use the following links to download dataset:
+Please use the following links to download dataset (OneDrive is recommended):
 
 Download LaSOT in the conference version
 

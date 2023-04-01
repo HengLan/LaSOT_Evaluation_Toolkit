@@ -19,7 +19,7 @@ Please use the following links to download dataset (OneDrive is recommended):
 
 * Download each category in conference version through OneDriver: [link](https://1drv.ms/f/s!Akt_zO4y_u6DgoNSoMJrfnVwveDjhA?e=PBeyuD)
 
-Download LaSOT-extension in the journal version
+#### Download LaSOT-extension in the journal version
 
 * Download the new extension in journal version through OneDriver: [link](https://1drv.ms/u/s!Akt_zO4y_u6DgoQrvo5h48AC15l67A?e=Zo6PWx)
 * Download each category of the new extension in journal version through OneDriver: [link](https://1drv.ms/f/s!Akt_zO4y_u6DgoQZH_aGsNh2f6x6Dg?e=sldyAx)

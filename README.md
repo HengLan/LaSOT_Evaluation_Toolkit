@@ -20,7 +20,7 @@ Please use the following links to download dataset (OneDrive is recommended):
 
 #### Download LaSOT-extension in the journal version
 
-* Download the new extension in journal version through OneDriver: [link](https://1drv.ms/u/s!Akt_zO4y_u6DgoQrvo5h48AC15l67A?e=Zo6PWx)
+* Download the new extension in journal version through OneDriver: [link](https://1drv.ms/u/s!Akt_zO4y_u6DgoQrvo5h48AC15l67A?e=Zo6PWx) or Google Drive: [link](https://drive.google.com/file/d/1J4Soimnoz_fPZANSzAHZ01OjxKDeBS88/view?usp=share_link)
 * Download each category of the new extension in journal version through OneDriver: [link](https://1drv.ms/f/s!Akt_zO4y_u6DgoQZH_aGsNh2f6x6Dg?e=sldyAx)
 
 In order to download the tracking results, please directly use the following link (including toolkit and complete results):
